@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+body{
+    font-family: 'Potta One', cursive;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+header{
+    background-image: url("http://11.faceprep.in/cartoon-background.png");
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    padding: 200px;
+}
