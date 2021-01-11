@@ -14,7 +14,7 @@ a{
     color: black;
 }
 header{
-    background-image: url("./Assets/cartoon.png.jpg") alt="Cartoon";
+    background-image: url("./Assets/cartoon.png.jpg");
     background-repeat: no-repeat;
     color:black;
     background-size: cover;
