@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 body{
-    font-family: 'Potta One', cursive;
+    font-family: 'Shadows Into Light', cursive;
     text-align: center;
 }
 nav{
@@ -14,9 +14,39 @@ a{
     color: black;
 }
 header{
-    background-image: url("http://11.faceprep.in/cartoon-background.png");
+    background-image: url("./Assets/cartoon.png.jpg");
     background-repeat: no-repeat;
-    color: white;
+    color:black;
     background-size: cover;
     padding: 200px;
+}
+h1{
+    font-size: 8em;
+    letter-spacing: 10px;
+}
+h2{
+    font-size: 6em;
+}
+h3{
+    font-size: 4em;
+}
+h4{
+    font-size: 2em;
+    font-weight: 400;
+}
+section p, img{
+    padding: 10px;
+}
+.cartoons{
+    color: black;
+    padding: 70px;
+}
+#Shinchan{
+    background-color: yellow;
+}
+#Doreamon{
+    background-color: red;
+}
+#MotuPatlu{
+    background-color: blue;
 }
